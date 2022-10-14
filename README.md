@@ -14,3 +14,4 @@
    - named arguments 기법
 3. 흐름제어
    - if-else 표현식
+   - when식
