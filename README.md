@@ -15,3 +15,4 @@
 3. 흐름제어
    - if-else 표현식
    - when식
+   - for loop
