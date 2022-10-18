@@ -3,7 +3,7 @@ fun getNullStr(): String? = null
 fun getLengthIfNotNull(str: String?) = str?.length ?: 0
 
 /**
- * @see: Java_NullSafety.java
+ * @see Java_NullSafety
  */
 fun main() {
 

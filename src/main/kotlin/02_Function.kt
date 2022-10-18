@@ -27,7 +27,7 @@ fun greeting(message: String = "안녕하세요!!") {
 }
 
 /**
- * @see: Message.java
+ * @see Message
  */
 //fun main() {
 //    greeting() // 전달된 파라미터가 없는 경우 default 파라미터로 처리되는 것을 확인할 수 있다.
@@ -39,7 +39,7 @@ fun log(level: String = "INFO", message: String) {
 }
 
 /**
- * @see: Logger.java
+ * @see Logger
  */
 fun main() {
     log(message = "인포 로그") // named arguments 기법: 변수명을 지목하여 값 할당

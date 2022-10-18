@@ -9,7 +9,7 @@ fun main() {
     }
 
     /**
-     * @see: Java_If.java
+     * @see Java_If
      */
     // 코틀린의 if-else는 표현식이다. (if-else 자체가 값을 return할 수 있기 때문에 이 자체를 표현식이라고 부른다.)
     val age : Int = 10
